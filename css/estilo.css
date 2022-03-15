@@ -107,7 +107,7 @@ li{
     height: 100px;
     opacity: .4;
     border: double 2px grey ;
-
+    transition: transform .5s;
  }
 .fotos:hover{
    opacity: 1;
